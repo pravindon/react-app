@@ -1,0 +1,23 @@
+{
+  "name": "react-namaste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravindon/react-app.git"
+  },
+  "keywords": [
+    "React",
+    "react"
+  ],
+  "author": "Pravin Dongardive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravindon/react-app/issues"
+  },
+  "homepage": "https://github.com/pravindon/react-app#readme"
+}
